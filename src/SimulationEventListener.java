@@ -7,6 +7,8 @@ import java.util.EventListener;
  *
  *	any class that needs to respond directly to an event in the simulation must
  *	implement this interface
+ 
+ 	I DID NOT WRITE THIS!!
  */
 public interface SimulationEventListener extends EventListener
 {
