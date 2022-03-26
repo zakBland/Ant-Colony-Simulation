@@ -4,6 +4,8 @@ import java.util.EventObject;
  *	class SimulationEvent
  *
  *	represents an event that can occur in the simulation
+ 
+ 	I DID NOT WRITE THIS!
  */
 public class SimulationEvent extends EventObject
 {
