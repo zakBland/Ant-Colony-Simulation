@@ -14,6 +14,8 @@ import javax.swing.border.BevelBorder;
  *	class ColonyNodeView
  *
  *	provides a graphical view for a single node in the ant colony
+ 	
+	MAJORITY OF THE CODE IS NOT MINE
  */
 public class ColonyNodeView extends JPanel
 {
