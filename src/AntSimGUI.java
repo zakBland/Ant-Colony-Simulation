@@ -24,6 +24,8 @@ import javax.swing.SpringLayout;
  *	contains:
  *		1.	a control panel for setting up and running the simulation
  *		2.	a graphical view of the ant colony
+ 
+ 		NOT MY CODE
  */
 public class AntSimGUI extends JFrame
 {
