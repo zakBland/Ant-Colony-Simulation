@@ -11,6 +11,8 @@ import javax.swing.SpringLayout;
  *
  *	this class is a container for the views for the individual nodes of the
  *	colony
+ 
+ 	THIS IS NOT MY CODE!
  */
 public class ColonyView extends JPanel
 {
